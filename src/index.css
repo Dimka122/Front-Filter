@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  color: #31393c;
+  background-color: #f4f4f4;
+}
+
+body, #root {
+  min-height: 100vh;
+}
